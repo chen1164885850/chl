@@ -1,4 +1,6 @@
 /*
+*  Status LEDs driver 
+*  Copyright (c) 2012 
 */
 #include <linux/module.h>  
 #include <linux/types.h>  
